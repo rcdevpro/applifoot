@@ -1,0 +1,20 @@
+1;PSG ; Caen 
+1;Lille ; Rennes
+1;Lyon ; Amiens 
+1;Saint-Etienne; Guingamp 
+1;Nice ; Reims 
+1;Bordeaux ; Strasbourg 
+1;Marseille ; Toulouse 
+1;Montpellier ; Dijon 
+1;Nantes ; Monaco 
+1;Angers ; Nîmes
+2;Amiens;Montpellier
+2;Caen;Nice
+2;Dijon;Nantes
+2;Guingamp;Paris
+2;Monaco;Lille
+2;Nîmes;Marseille
+2;Reims;Lyon
+2;Rennes;Angers
+2;Strasbourg;Saint-Etienne
+2;Toulouse;Bordeaux
