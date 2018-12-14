@@ -1,0 +1,162 @@
+[
+  {
+    "Journée": 1,
+    "Match": 1,
+    "Equipe1": "PSG",
+    "Equipe2": "Caen",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 1,
+    "Match": 2,
+    "Equipe1": "Lille",
+    "Equipe2": "Rennes",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 1,
+    "Match": 3,
+    "Equipe1": "Lyon",
+    "Equipe2": "Amiens",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 1,
+    "Match": 4,
+    "Equipe1": "Saint-Etienne",
+    "Equipe2": "Guingamp",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 1,
+    "Match": 5,
+    "Equipe1": "Nice",
+    "Equipe2": "Reims",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 1,
+    "Match": 6,
+    "Equipe1": "Bordeaux",
+    "Equipe2": "Strasbourg",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 1,
+    "Match": 7,
+    "Equipe1": "Marseille",
+    "Equipe2": "Toulouse",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 1,
+    "Match": 8,
+    "Equipe1": "Montpellier",
+    "Equipe2": "Dijon",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 1,
+    "Match": 9,
+    "Equipe1": "Nantes",
+    "Equipe2": "Monaco",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 1,
+    "Match": 10,
+    "Equipe1": "Angers",
+    "Equipe2": "Nîmes",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 2,
+    "Match": 1,
+    "Equipe1": "Amiens",
+    "Equipe2": "Montpellier",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 2,
+    "Match": 2,
+    "Equipe1": "Caen",
+    "Equipe2": "Nice",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 2,
+    "Match": 3,
+    "Equipe1": "Dijon",
+    "Equipe2": "Nantes",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 2,
+    "Match": 4,
+    "Equipe1": "Guingamp",
+    "Equipe2": "Paris",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 2,
+    "Match": 5,
+    "Equipe1": "Monaco",
+    "Equipe2": "Lille",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 2,
+    "Match": 6,
+    "Equipe1": "Nîmes",
+    "Equipe2": "Marseille",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 2,
+    "Match": 7,
+    "Equipe1": "Reims",
+    "Equipe2": "Lyon",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 2,
+    "Match": 8,
+    "Equipe1": "Rennes",
+    "Equipe2": "Angers",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 2,
+    "Match": 9,
+    "Equipe1": "Strasbourg",
+    "Equipe2": "Saint-Etienne",
+    "Score1": "",
+    "Score2": ""
+  },
+  {
+    "Journée": 2,
+    "Match": 10,
+    "Equipe1": "Toulouse",
+    "Equipe2": "Bordeaux",
+    "Score1": "",
+    "Score2": ""
+  }
+]
